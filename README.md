@@ -52,4 +52,7 @@ Kemudian jika project sudah tampil pada <b>activity_main.xml</b> buat tampilan n
 </LinearLayout>
 ```
 Berikut tampilannya:<br />
-<img src="https://github.com/moeslimdecoded/simple-snackbar/blob/master/views.png" >
+<img src="https://github.com/moeslimdecoded/simple-snackbar/blob/master/views.png" ><br />
+Gambar 1.1 - Tampilan Setelah Di Design Melalui file <b>activity_main.xml</b><br />
+
+
